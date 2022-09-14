@@ -1,7 +1,7 @@
 ### Hello there 👋
-#### 🌱 I’m pursuing Data Science @ UT Dallas
-#### 👯 I’m looking to collaborate on hackathons & fun, interactive projects 
-#### 📫 Reach out to me via Linkedin www.linkedin.com/in/yoshita-narangg/
+I'm a strong-willed, supersonic learner 🔭 & an aspiring Machine Learning Engineer 🌱 with strengths in communication and innovative thinking. I execute a growth mindset in my work so that I can grasp & adopt cutting-edge technologies to develop people-centered solutions.
+
+This fall semester, I've taken on a project @ ZCLAP 💬 as a Machine Learning intern while pursuing my bachelor's in Data Science @ UT Dallas. 
 <!--
 **yoshitanarang/yoshitanarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
