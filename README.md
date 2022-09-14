@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello there 👋
+#### 🌱 I’m pursuing Data Science @ UT Dallas
+#### 👯 I’m looking to collaborate on hackathons & fun, interactive projects 
+#### 📫 Reach out to me via Linkedin www.linkedin.com/in/yoshita-narangg/
 <!--
 **yoshitanarang/yoshitanarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
